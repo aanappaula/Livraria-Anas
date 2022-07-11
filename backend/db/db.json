@@ -1,0 +1,39 @@
+{
+  "autores": [
+    {
+      "autor": "Khaled Hosseini",
+      "categoria": "Terror",
+      "editora": "Arcoíris",
+      "id": 1
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Suspense",
+      "editora": "Rocco",
+      "id": 1
+    }
+  ],
+  "livros": [
+    {
+      "nome": "fasdfas",
+      "autor": "J.K Rowling",
+      "categoria": "Romance",
+      "editora": "Azul",
+      "id": 1
+    },
+    {
+      "autor": "Khaled Hosseini",
+      "nome": "ola",
+      "categoria": "Romance",
+      "editora": "Página",
+      "id": 2
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "azul",
+      "id": 1
+    }
+  ]
+}
